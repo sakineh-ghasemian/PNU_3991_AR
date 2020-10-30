@@ -1,9 +1,9 @@
 # PNU_3991_AR-
-## عذرا حسینی
-- [PNU_3991_AR](https://github.com/ozrahosseini/PNU-3991-AR)
-- [Resume](https://ozrahosseini.github.io/) 
+##   سکینه قاسمیان 
+- [PNU_3991_AR](https://github.com/sakineh-ghasemian/PNU-3991-AR)
+- [Resume](https://sakineh-ghasemiann.github.io/) 
 - [SOP](https://.github.io/SOP/)
-- [GitHub](https://github.com/ozrahosseini/)
+- [GitHub](https://github.com/sakineh-ghasemian/)
 -----------------
 
 1. GR0
