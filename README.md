@@ -2,9 +2,10 @@
 ##   سکینه قاسمیان 
 - [PNU_3991_AR](https://github.com/sakineh-ghasemian/PNU-3991-AR)
 - [Resume](https://sakineh-ghasemian.github.io/) 
-- [SOP](https://.github.io/SOP/)
+- [sop](https://sakineh-ghasemian.github.io/sop/)
 - [GitHub](https://github.com/sakineh-ghasemian)
 ------------------
+
 
 
 1. G-R02)
