@@ -2,7 +2,7 @@
 ##   سکینه قاسمیان 
 - [PNU_3991_AR](https://github.com/sakineh-ghasemian/PNU-3991-AR)
 - [Resume](https://sakineh-ghasemian.github.io/) 
-- [sop](https://sakineh-ghasemian.github.io/sop/)
+- [Sop](https://sakineh-ghasemian.github.io/sop/)
 - [GitHub](https://github.com/sakineh-ghasemian)
 - [Javascript certificate](https://github.com/sakineh-ghasemian/javascript-certificate/blob/main/%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%DB%B1.pdf)
 ----------
