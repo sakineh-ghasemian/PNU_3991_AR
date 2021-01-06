@@ -9,6 +9,7 @@
 - [choose a good Engineering dissertation](Dissertation_Thesis_Yuxiao_Zhao0417.pdf)The method and research of this source is on page 16
 - [latex pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.pdf)
 - [latex tex](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.tex)
+- [Oral presentation](https://drive.google.com/file/d/1D103aQwDHt3WXaYu_nJlrgiOomRQmSDT/view?usp=drivesdk)
 -----------
 
 
