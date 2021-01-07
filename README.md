@@ -6,7 +6,7 @@
 - [GitHub](https://github.com/sakineh-ghasemian)
 - [Javascript certificate]( https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%DB%B1.pdf)
 - [Jlord.patchwork]( https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%DB%B2%DB%B0%DB%B2%DB%B0%DB%B1%DB%B1%DB%B2%DB%B4_%DB%B1%DB%B9%DB%B4%DB%B4%DB%B2%DB%B4.jpg)
-- [Choose a good Engineering dissertation  http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822](Dissertation_Thesis_Yuxiao_Zhao0417.pdf)The method and research of this source is on page 16
+- [Choose a good Engineering dissertation](Dissertation_Thesis_Yuxiao_Zhao0417.pdf)http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822 The method and research of this source is on page 16
 - [Latex pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.pdf)
 - [Latex tex](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.tex)
 - [Oral presentation](https://drive.google.com/file/d/1DDUXlmHdP4MUQNyXnomUzc9j9OPTmkR5/view?usp=drivesdk)
