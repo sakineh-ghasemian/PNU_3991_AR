@@ -32,11 +32,12 @@
 
 <table style="width:100%">
   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
+    <th >18-20</th>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th>12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
     <th>روز</th>
   </tr>
   <tr>
@@ -44,32 +45,34 @@
     <th ></th>
     <th ></th>
     <th></th>
+    <th>شبکه های کامپیوتری</th>
     <th></th>
     <th>شنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>  
-    <th></th>
+    <th>مبانی کاربردی هوش مصنوعی</th>
     <th ></th>
     <th></th>
+    <th ></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th >16-18</th>
+     <th >ارائه وپژوهش</th>
      <th ></th>
      <th></th>
      <th></th>
      <th></th>
-   <th><a href="github.com/AliRazavi-edu/PNU-3991/tree/master/-BSc/UserInterfaceDesgin"> روش پژوهش وارائه  
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>
     <th></th>
-    <th></th> 
+    <th>سیستم های عامل</th> 
     <th></th>
+    <th ></th>
     <th>سه شنبه</th>
   </tr>
    <tr>
@@ -83,11 +86,13 @@
    <tr>
    <th ></th>
     <th ></th>
+     <th >فرهنگ تمدن اسلام و ایران</th>
      <th ></th>
-     <th ></th>
-     <th><a></a></th>
+     <th >مباحث ویژه 2</th>
+     <th>مباحث ویژه 2</th>
+     <th></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
 
-    
+--------------
