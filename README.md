@@ -9,6 +9,8 @@
  ## جستجویی منابع دیگر
 - [Choose a good Engineering dissertation](Dissertation_Thesis_Yuxiao_Zhao0417.pdf)
   http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822 The method and research of this source is on page 16
+  ## معرفی دروس مشابه در دانشگاههای دیگر 
+  - [دانشگاه PEPPERDINE در کالیفرنیا](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
  ##  Latex 
 - [Latex pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.pdf)
 - [Latex tex](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.tex)
