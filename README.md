@@ -13,7 +13,13 @@
 - [Latex pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.pdf)
 - [Latex tex](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.tex)
 - [Oral presentation](https://drive.google.com/file/d/1DDUXlmHdP4MUQNyXnomUzc9j9OPTmkR5/view?usp=drivesdk)
-  ارزیابی
+
+>  ارزیابی
+ ##  بخش عمومی
+ - [ارزیابی انگیزنامه ورزومه]
+ - [خلاصه ارزیابی بخش عمومی]
+ ##  بخش دروس کارشناسی
+ - [خلاصه ارزیابی درس پژوهش وارائه]
 -----------
 
 
