@@ -21,7 +21,7 @@
  - [ارزیابی انگیزنامه ورزومه](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/XX_CV_CheckList_AR_3991.pdf)
  - [خلاصه ارزیابی بخش عمومی](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/XX_GeneralSection_CheckList_AR_3991.pdf)
  ##  بخش درس کارشناسی
- - [خلاصه ارزیابی درس پژوهش وارائه](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/XX_ResearchAndPresentationMethods_CheckList_AR_3991%20(1).pdf)
+ - [خلاصه ارزیابی درس روش و پژوهش](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/XX_ResearchAndPresentationMethods_CheckList_AR_3991%20(2).pdf)
 -----------
 
 
