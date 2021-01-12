@@ -17,7 +17,7 @@
 >  ارزیابی
  ##  بخش عمومی
  - [ارزیابی انگیزنامه ورزومه](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/XX_CV_CheckList_AR_3991.pdf)
- - [خلاصه ارزیابی بخش عمومی]
+ - [خلاصه ارزیابی بخش عمومی](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/XX_GeneralSection_CheckList_AR_3991.pdf)
  ##  بخش دروس کارشناسی
  - [خلاصه ارزیابی درس پژوهش وارائه]
 -----------
