@@ -12,7 +12,7 @@
  ## معرفی دروس مشابه در دانشگاههای دیگر 
 - [دانشگاه جامیا همدرد دهلی نو ، کشور هند](https://search.library.yale.edu/catalog/13747512?counter=1)
 - [ دانشگاه نیوکاسل انگلستان](https://libguides.newcastle.edu.au/researchmethods)
-- [Pdf](
+- [Pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%D8%B3%D9%86%D8%AF%20(8).pdf)
  ##  Latex 
 - [Latex pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.pdf)
 - [Latex tex](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.tex)
