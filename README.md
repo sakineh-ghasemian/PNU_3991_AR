@@ -13,7 +13,7 @@
 - [دانشگاه جامیا همدرد دهلی نو ، کشور هند](https://search.library.yale.edu/catalog/13747512?counter=1)
 - [Research methods of computer science](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B1%DB%B2%DB%B0_%DB%B1%DB%B2%DB%B4%DB%B7%DB%B2%DB%B9.jpg)
 - [ دانشگاه نیوکاسل انگلستان](https://libguides.newcastle.edu.au/researchmethods)
-- [pdf]
+- [pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%D8%B3%D9%86%D8%AF%20(11).pdf)
 - [دانشگاه آدلاید استرالیا](https://py2h72im5o5u43xgonfz7ig544-adwhj77lcyoafdy-www-adelaide-edu-au.translate.goog/course-outlines/108290/1/sem-1/)
 - [pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%D8%B3%D9%86%D8%AF%20(6).pdf)
  ##  Latex 
