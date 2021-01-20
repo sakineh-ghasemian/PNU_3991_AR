@@ -14,7 +14,7 @@
 - [ دانشگاه نیوکاسل انگلستان](https://libguides.newcastle.edu.au/researchmethods)
 - [Pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%D8%B3%D9%86%D8%AF%20(8).pdf)
 - [دانشگاه آدلاید استرالیا](https://py2h72im5o5u43xgonfz7ig544-adwhj77lcyoafdy-www-adelaide-edu-au.translate.goog/course-outlines/108290/1/sem-1/)
-- [Pdf](
+- [Pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%D8%B3%D9%86%D8%AF%20(6).pdf)
  ##  Latex 
 - [Latex pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.pdf)
 - [Latex tex](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.tex)
