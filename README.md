@@ -20,7 +20,7 @@
  ##  Latex 
 - [Latex pdf](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.pdf)
 - [Latex tex](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/NEW-1.tex)
-- [Oral presentation paverpont](https://drive.google.com/file/d/1NG2d92AZsYfgWlLcvx9DRX0UXvxI-lLl/view?usp=drivesdk)
+- [Oral presentation powerpoint](https://drive.google.com/file/d/1NG2d92AZsYfgWlLcvx9DRX0UXvxI-lLl/view?usp=drivesdk)
 - [ ارائه شفاهی ](https://drive.google.com/file/d/1DDUXlmHdP4MUQNyXnomUzc9j9OPTmkR5/view?usp=drivesdk)
 
 >  ارزیابی
