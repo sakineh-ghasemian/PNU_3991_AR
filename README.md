@@ -11,8 +11,6 @@
   http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822 The method and research of this source is on page 16
  ## معرفی دروس مشابه در دانشگاههای دیگر 
 1- [دانشگاه جامیا همدرد دهلی نو ، کشور هند ](https://search.library.yale.edu/catalog/13747512?counter=1)
-- [Research methods of computer science](https://github.com/sakineh-ghasemian/PNU_3991_AR/blob/gh-pages/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B1%DB%B2%DB%B0_%DB%B1%DB%B2%DB%B4%DB%B7%DB%B2%DB%B9.jpg)
-
 2- [ دانشگاه نیوکاسل انگلستان](https://libguides.newcastle.edu.au/researchmethods)
 - [فهرست و خلاصه کتاب](https://newcastle.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwY2AwNtIz0EUrEywNU9OM0hKBdQUwAQFbsEnmyUnA9G2QlJgKLB3N08CLC828fC3CXYxCoP3GYvBOu_zsYj3wXRqgWU_0AQxjU9BxacDODyvonHPQBQZ-kZbg7VsmoNN3LSyNYKc6Qfkm3AyccNMg17mDKxI3QQYW0OYCIQam1DwRBtUAyN4fYO2hUAmMUwWb3MSibDvo-TsZNvpgriiDkptriLOHLtzEeOiYSzzMZcZGYgwswH58qgSDAuiglERwBwjoDtMky8Q0w-QkY-OUZLPUVKMksyRJBmk8BknhlZVm4ALW5CaQsQEZBtY0YNpNlUXyqxw4aAD5AW93)
 
