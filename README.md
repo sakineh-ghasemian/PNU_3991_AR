@@ -1,4 +1,4 @@
-<div dir="rt1">
+<div dir="rtl">
 
 ##  سکینه قاسمیان رستاقی 
 - [PNU_3991_AR](https://github.com/sakineh-ghasemian/PNU-3991-AR)
